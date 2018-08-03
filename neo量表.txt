@@ -1,0 +1,168 @@
+编号	id	text	翻譯	"""keyed"""	"""domain"""	"""facet"""	參考序號	参考翻译	"""keyed"""	"""domain"""
+1	43c98ce8-a07a-4dc2-80f6-c1b2a2485f06	Worry about things	经常感到忧虑和担心	plus	N	1	9		plus	N
+2	d50a597f-632b-4f7b-89e6-6d85b50fd1c9	Make friends easily	很容易交朋友	plus	E	1	44			
+3	888dd864-7449-4e96-8d5c-7a439603ea91	Have a vivid imagination	有生动的想象力	plus	O	1	17			
+4	ce2fbbf8-7a97-4199-bda5-117e4ecdf3b6	Trust other	信任他人	plus	A	1	5	相信别人告诉自己的话		
+5	c7f53c3c-2e77-432f-bb71-7470b67d3aa9	Complete tasks successfully	完成任务很靠谱	plus	C	1	57	能成功完成任务		
+6	48ad12ce-470e-4339-90ac-ea8c43a0103e	Get angry easily	容易生气	plus	N	2				
+7	458f3957-2359-4077-ade1-34525d633063	Love large parties	喜欢大party	plus	E	2				
+8	58d571e5-d725-4cf8-a438-32c16ee28eb6	Believe in the importance of art	相信艺术的重要性	plus	O	2	19			
+9	0cf79e27-e702-45c2-9471-04ac96b58e0e	Use others for my own ends	出于自己的目的利用他人	minus	A	2				
+10	cda1ca17-b599-4561-a6cd-ff9d36062d27	Like to tidy up	喜欢整理	plus	C	2	70	弄乱物品		
+11	5e8550d7-b8ef-4905-950a-f81d735d39e2	Often feel blue	经常垂头丧气	plus	N	3	23		plus	N
+12	8af754f2-68e9-48f3-8c5d-2e6633d4472c	Take charge	爱掌控	plus	E	3				
+13	0727def6-3d18-4221-bf38-86b58f9f3eed	xperience my emotions intensely	Experience my emotions intensely	plus	O	3	13	经常情绪波动	plus	N
+14	ccf3a5c8-fb50-4bd4-8e7a-22af3d657279	Love to help others	乐于助人	plus	A	3				
+15	73d84e5d-cbf5-47f0-b8cb-4d2159a52e32	Keep my promises	信守承诺	plus	C	3				
+16	b2d9ef74-73f5-4ea8-b00c-7aaca15937df	Find it difficult to approach others	难于接近他人	plus	N	4	26	发现自己很难接近他人		
+17	48a761ef-438e-409b-ae59-ea2ce8f84414	Am always busy	通常比较忙	plus	E	4				
+18	cae55842-8957-4e3b-83b3-ceff98fb9dcf	Prefer variety to routine	喜欢多样化而不喜欢常规	plus	O	4				
+19	e2028ad3-b128-4f76-be57-398bfe2aff22	Love a good fight	喜欢冲突	minus	A	4	7	与他人有冲突		
+20	b7fc949b-02b6-4cb9-a3e2-dbb3d824b55f	Work hard	努力工作	plus	C	4				
+21	481efd08-c810-43b1-a952-f8ac9052f96b	Go on binges	常饮酒作乐	plus	N	5				
+22	987efee2-899f-4a65-b9b5-1589ef0460d7	Love excitement	爱刺激	plus	E	5				
+23	e1e804c7-4a1d-498f-8610-f95147af9d1d	Love to read challenging material	喜欢读烧脑读物	plus	O	5				
+24	71029381-3908-4c68-91e1-e41fb45542a2	Believe that I am better than others	认为别人都不如自己	minus	A	5	60			
+25	f6076eea-56ae-4b46-97f1-5f94a7676c96	Am always prepared	时刻准备着	plus	C	5	31	总是处于准备好的状态		
+26	2f519935-92e8-48ad-9746-4a0f8b38466a	Panic easily	容易慌张	plus	N	6	16	很容易感到恐慌	plus	N
+27	899c3f66-51d0-46ea-963a-6fc36d3b3cb9	Radiate joy	洋溢着快乐的神情	plus	E	6				
+28	79186f48-e7fa-4df4-b74b-b0627ee244e1	Tend to vote for liberal political candidates	倾向于主张变革的政治领导人	plus	O	6	15			
+29	fd50e1ca-d9e0-4037-a7a1-a191d4db2d96	Sympathize with the homeless	同情无家可归者	plus	A	6				
+30	bd9eec0a-b68b-472c-8803-7db29c308cdb	Jump into things without thinking	做事不假思索	minus	C	6				
+31	7f92ab2c-265c-4b84-8c74-09f9bb9d41a7	Fear for the worst	害怕最糟的情况	plus	N	1	56	害怕事情会糟糕至极	plus	N
+32	af55f014-788c-4b6e-92c4-b2b59dc8a28d	Feel comfortable around people	在人群中感觉自在	plus	E	1	4			
+33	08ff6dca-02a5-4aeb-aaa4-2ecf2526f143	Enjoy wild flights of fantasy	享受幻想的疯狂飞行	plus	O	1				
+34	6f66cdc0-9044-457b-b40d-501ecae15ee7	Believe that others have good intentions	相信别人抱有好意	plus	A	1	14	相信他人都有好的意图		
+35	f110fc66-2e9e-413c-920b-19f05e63d7ac	Excel in what I do	擅长我所做的事	plus	C	1				
+36	7dab2a37-8635-4fc7-86b7-0abf13c183c9	Get irritated easily	容易恼怒	plus	N	2				
+37	28ab59a0-e7cd-4fce-94e3-bba2ecc023b6	Talk to a lot of different people at parties	在聚会中能和很多不同的人交谈	plus	E	2	55			
+38	b5919f2f-cded-4745-a9ce-c02703cee807	See beauty in things that others might not notice	常于别人不见处发现事物之美	plus	O	2				
+39	5a5fa975-d024-4ac8-8845-2823f957c21b	Cheat to get ahead	为获取优势不择手段	minus	A	2				
+40	adf33f9f-45bd-43e3-af25-4c491176d97f	Often forget to put things back in their proper place	常忘记把东西放回适当位置	minus	C	2				
+41	f0a14e16-d726-47e9-a2c1-647fd3d7d52e	Dislike myself	不喜欢自己	plus	N	3				
+42	0b38e3d3-c15c-454c-b034-f4eb7ae1580a	Try to lead others	尝试领导他人	plus	E	3				
+43	5631b856-ff34-4f76-a0cd-edc7104c3bfa	Feel others' emotions	感受到他人的感受	plus	O	3	33	同情他人的感受		
+44	ada867af-4db1-4e3d-a604-2b695c1806e5	Am concerned about others	关心他人	plus	A	3	18			
+45	c55e3958-00c4-4fc3-9118-47d8f31bfde1	Tell the truth	说实话	plus	C	3				
+46	acd8fadc-5399-4a67-b5ff-9d1ada049c01	Am afraid to draw attention to myself	害怕引起他人的注意	plus	N	4	59	不喜欢自己引起注意		
+47	d07b6c67-0d02-4948-a997-bb84ac234cd8	Am always on the go	常忙个不停	plus	E	4				
+48	33b81fd0-7e32-4cd8-a13a-d5f5f754f998	Prefer to stick with things that I know	喜欢执着所知的事情	minus	O	4				
+49	d9a9a180-29c9-4ec5-8621-2256d411def7	Yell at people	会冲人大喊大叫	minus	A	4				
+50	f12c3d9d-1d12-4aa6-ad2e-009cd0651cbb	Do more than what's expected of me	做超出对我期望的事	plus	C	4				
+51	9891b7ba-a494-4307-aafe-301d8db506c6	Rarely overindulge	极少放纵	minus	N	5				
+52	f1675af6-88bf-4376-a946-0281e762b39c	Seek adventure	寻求冒险	plus	E	5				
+53	95a3f20c-f933-4d19-a2c1-a7dbdf63c562	Avoid philosophical discussions	避免哲学式的讨论	minus	O	5	36			
+54	7df44711-4cd4-4b05-8830-73fcc3ebdab5	Think highly of myself	自视很高	minus	A	5				
+55	9d3cb5c7-955c-43a4-b6c7-b07ed01dcbd9	Carry out my plans	完成自己的计划	plus	C	5	27			
+56	13c58810-3864-42ba-aa87-d4166f858756	Become overwhelmed by events	会被状况击倒	plus	N	6				
+57	961376e0-16a1-4c14-b059-789e63d11b63	Have a lot of fun	有很多乐趣	plus	E	6				
+58	f08e1b27-3673-4898-9cae-896482d0d9f9	Believe that there is no absolute right and wron	相信错对无绝对	plus	O	6				
+59	c2038c12-7a37-47a8-9983-831bd6692aab	Feel sympathy for those who are worse off than mysel	同情比自己潦倒的人	plus	A	6				
+60	956f3e17-ff17-4af5-a52f-9222b8968106	Make rash decisions	做匆忙的决定	minus	C	6				
+61	4d81238b-5407-47d4-88e5-dc0e38aa14f5	Am afraid of many things	顾虑很多	plus	N	1				
+62	9f9166f0-fa94-4c14-a91d-3eecd8395794	Avoid contacts with others	避免与其他人联系	minus	E	1				
+63	23a1034f-fab7-4887-a66e-5ef4eaafb25e	Love to daydream	喜欢白日做梦	plus	O	1				
+64	c63e6121-c3ed-40cc-abc2-c1e6ea1e0858	Trust what people say	信任他人所言	plus	A	1				
+65	02ee1930-36a7-4caa-b10c-c93efb682a44	"""Handle tasks smoothly"""	处理任务很顺手	plus	C	1				
+66	da8e6ed1-2296-4c58-8fdb-66f2f591989b	"""Lose my temper"""	常闹脾气	plus	N	2				
+67	03c10b30-b88f-4c63-8acc-71251ca24615	"""Prefer to be alone"""	乐于独处	minus	E	2				
+68	751a04bc-5adf-485a-8ea4-4308406ae85b	"""Do not like poetry"""	不喜欢诗歌	minus	O	2				
+69	982e83c2-d34e-48da-9c71-78494ab05c85	"""Take advantage of others"""	占别人便宜	minus	A	2				
+70	f4891687-0ff0-47af-a4f6-d1202c8f6676	"""Leave a mess in my room"""	自己屋里很乱	minus	C	2				
+71	743d8973-1de1-4485-91b4-8a5cf63e7d44	"""Am often down in the dumps"""	常闷闷不乐	plus	N	3				
+72	2452f034-8273-4f71-9122-a40f5ead31ba	"""Take control of things"""	掌控事物	plus	E	3				
+73	2a300001-6e05-4c79-b8b5-2ccae4c3d463	"""Rarely notice my emotional reactions"""	很少注意到我的情绪反应	minus	O	3				
+74	cd54bd76-ca9c-4030-b325-bb8d896bcb3f	"""Am indifferent to the feelings of others"""	常对别人的感觉无动于衷	minus	A	3				
+75	4e6e3a34-176f-4e6e-8730-1341611f972b	"""Break rules"""	常破例、犯规	minus	C	3				
+76	20062533-a33d-4c1e-9cd9-bff868015b3f	"""Only feel comfortable with friends"""	只有和朋友们在一起才舒适	plus	N	4				
+77	b2a077d5-1fe0-4b06-ab63-35455e001e54	"""Do a lot in my spare time"""	空闲时做很多事	plus	E	4				
+78	0d2e65ab-95d9-482f-beb4-3239a3a4944a	"""Dislike changes"""	不喜欢改变	minus	O	4				
+79	0de0f900-cede-4538-9c00-5da4f830b028	"""Insult people"""	侮辱他人	minus	A	4	42			
+80	a9c97d6b-6721-4150-8d84-64ef3082f164	"""Do just enough work to get by"""	得过且过	minus	C	4	29	对于工作，只做到刚刚好		
+81	9f2e7f90-0ca5-4ed0-9fe5-e060238a9b5e	"""Easily resist temptations"""	轻松抵御诱惑	minus	N	5				
+82	7dd6cf2d-5c14-48c2-8ae5-633a7a596c71	"""Enjoy being reckless"""	喜欢鲁莽行事	plus	E	5				
+83	fecc35f7-681e-4889-a404-4a973a3dfef0	"""Have difficulty understanding abstract ideas"""	很难理解抽象想法	minus	O	5				
+84	1d686958-6fe7-432f-85e6-186b99e4e232	"""Have a high opinion of myself"""	对自己有很高的评价	minus	A	5				
+85	c7db0ed8-df7d-49bf-942f-59e46ef743c4	"""Waste my time"""	虚度时光、浪费时光	minus	C	5	20			
+86	b7e0e393-9b21-4e0d-adf3-8f28fb5b9d87	"""Feel that I'm unable to deal with things"""	感觉自己做事不行	plus	N	6				
+87	79d956e8-1118-402a-a0e2-9380af18243e	"""Love life"""	热爱生命	plus	E	6				
+88	96ba77b2-1a44-4dfd-95f9-ae4d1f714460	"""Tend to vote for conservative political candidates"""	倾向于保守派的政治领导人	minus	O	6				
+89	77f54ab4-0fba-4efb-8700-066c7490eb87	"""Am not interested in other people's problems"""	对其他人遇到的问题不感兴趣	minus	A	6				
+90	a354cf7c-8d11-46ac-acc5-da90d2048637	"""Rush into things"""	仓促行事	minus	C	6				
+91	43b03992-3f32-4ed1-a6f8-5d6d3e7ed246	"""Get stressed out easily"""	很容易感到压力大	plus	N	1	28	很容易给自己施加压力	plus	N
+92	41702602-08e4-4e2b-9a19-291d9efc581a	"""Keep others at a distance"""	与他人保持距离	minus	E	1	3		plus	E
+93	935a7413-abac-4f54-9169-d1fbd39da752	"""Like to get lost in thought"""	容易迷失在想法里	plus	O	1				
+94	432dbde8-8756-4ff0-80d5-f47018235139	"""Distrust people"""	不信任别人	minus	A	1				
+95	5727c93f-317b-4af1-a686-77fc9fbc5033	"""Know how to get things done"""	知道如何搞定事情	plus	C	1				
+96	d32bd062-4eb2-401b-99b2-e7afea39ca9b	"""Am not easily annoyed"""	不容易烦恼	minus	N	2				
+97	9a47184f-6046-4e68-a61b-3d9b357b86ea	"""Avoid crowds"""	躲开人群	minus	E	2				
+98	87c5b27e-59a8-4c48-8ba8-f5413d735693	"""Do not enjoy going to art museums"""	不喜欢去艺术博物馆	minus	O	2	65			
+99	11b20adb-abed-4363-894c-3dd823ae0540	"""Obstruct others' plans"""	阻碍别人的计划	minus	A	2				
+100	50418d86-712c-45d9-adc4-ea0231c93cf5	"""Leave my belongings around"""	到处落东西	minus	C	2				
+101	f40e421f-6c24-4be2-bd9f-28d33358d8c6	"""Feel comfortable with myself"""	自我感觉良好	minus	N	3				
+102	8791f37b-686f-47c3-9db7-74c009951321	"""Wait for others to lead the way"""	等别人带路	minus	E	3				
+103	4fd25155-9cc2-4cd6-8852-3e0ca2d5e95d	"""Don't understand people who get emotional"""	不理解情绪化的人	minus	O	3				
+104	b68af20d-24f9-4c27-85cc-fe0858994888	"""Take no time for others"""	不为他人花时间	minus	A	3				
+105	54423933-0ebb-44a7-bdd9-2a9b100c70f2	"""Break my promises"""	常食言	minus	C	3				
+106	7317848c-3e1b-422f-bb16-02efc504f677	"""Am not bothered by difficult social situations"""	不被困难的社会状况所困扰	minus	N	4				
+107	7d93e1ca-46e8-4a30-9623-42a80c9b420c	"""Like to take it easy"""	喜欢放松	minus	E	4				
+108	a7f43928-8982-4ed5-8656-7a80346fe979	"""Am attached to conventional ways"""	执着于旧方法	minus	O	4				
+109	17910a55-a64a-4ed0-8b46-293e2fa2fe03	"""Get back at others"""	报复他人	minus	A	4	78	讨还他人		
+110	3890bb43-2695-4b8d-b289-ee10d11cc884	"""Put little time and effort into my work"""	在工作中投入的时间和精力很少	minus	C	4				
+111	49a85680-53aa-4208-86b5-dccc7a6f8e37	"""Am able to control my cravings"""	我能控制我的渴望	minus	N	5				
+112	10f90fa9-649c-4631-ac4c-3dd3f751597d	"""Act wild and crazy"""	行事疯狂	plus	E	5				
+113	b86de003-c3c4-4cc8-9385-5ac8a0142c34	"""Am not interested in theoretical discussions"""	对理论探讨没兴趣	minus	O	5				
+114	80c1d149-7050-481a-9953-aefb441642e7	"""Boast about my virtues"""	自吹自擂	minus	A	5				
+115	51403620-968c-42fa-a772-65ba5ad8396f	"""Have difficulty starting tasks"""	启动任务有困难	minus	C	5	21	做事前，需要一个推力才能幵始		
+116	88a3c2fe-3aa4-4f46-9322-da656332268a	"""Remain calm under pressure"""	压力下仍能保持冷静	minus	N	6				
+117	e7b31bdc-5f6b-40ec-ba91-f5919b0f170e	"""Look at the bright side of life"""	看生活的光明面	plus	E	6	11		minus	N
+118	580b08d1-3c94-46e9-9d07-d6d80c698127	"""Believe that we should be tough on crime"""	坚信应该严厉打击犯罪	minus	O	6				
+119	48bee420-60c0-45cd-be43-3893dbc1969a	"""Try not to think about the needy"""	不太考虑那些贫穷的人	minus	A	6				
+120	ea3327ea-3529-4be4-8e2d-2174731ae4d7	"""Act without thinking"""	轻率行事	minus	C	6				
+121							1	经常感到忧郁	plus	N
+122							2	善于处理社交情况		
+123							6	和大家在一起时总是我先开始交谈		
+124							8	做事总是有始有终		
+125							10	把自己的经历描述得有些无趣		
+126							12	对抽象的观念不感兴趣		
+127							22	不介意成为关注的焦点		
+128							24	乐于思考事情		
+129							25	能与他人很快熟悉起来		
+130							30	聚会时我是活跃气氛的人		
+131							32	对每个人都有好的评价		
+132							34	做事半途而废		
+133							35	发现很难踏实工作		
+134							37	在工作中严格要求自己		
+135							38	很少探究事物的深层含义		
+136							39	我很难被别人认识		
+137							40	对理论式的讨论不感兴趣		
+138							41	很难明白和理解别人想法中的概要		
+139							43	会继续按照自己结束的计划来做事		
+140							45	知道如何去吸引他人的主意		
+141							46	根据计划做事		
+142							47	尊重他人		
+143							48	制定计划并在过程中严格遵守		
+144							49	能够包容他人的缺点		
+145							50	有丰富的词汇量		
+146							51	把谈话带到一个高水平的交谈		
+147							52	把事情搞得一团糟		
+148							53	对事物充满怀疑	plus	N
+149							54	留在不被注意的人群中		
+150							58	很少感到忧郁	minus	N
+151							61	不容易因某事产生焦躁的情绪	minus	N
+152							62	立刻把杂事处理好		
+153							63	与他人针锋相对		
+154							64	不容易感到沮丧	minus	N
+155							66	很容易感受到被威胁	plus	N
+156							67	想事情不透彻		
+157							68	避免与他人的接触		
+158							69	关注细节		
+159							71	推卸责任		
+160							72	话不多		
+161							73	很少生气	minus	N
+162							74	躲避他人		
+163							75	平等待人		
+164							76	平易近人		
+165							77	使人愉悦		
+166							79	沉默寡言		
+							80	不喜欢艺术		
